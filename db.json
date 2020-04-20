@@ -13,12 +13,5 @@
 "todayCases": 284,
 "deaths": 235,
 "todayDeaths": 9,
-"recovered": 416,
-"active": 4313,
-"critical": 128,
-"casesPerOneMillion": 458,
-"deathsPerOneMillion": 22,
-"tests": 57809,
-"testsPerOneMillion": 5329,
-"continent": "North America"
+"recovered": 416
 }
