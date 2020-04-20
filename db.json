@@ -1,17 +1,8 @@
 {
 "updated": 1587393879211,
 "country": "Dominican Republic",
-"countryInfo": {
-"_id": 214,
-"iso2": "DO",
-"iso3": "DOM",
-"lat": 19,
-"long": -70.6667,
-"flag": "https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/do.png"
-},
 "cases": 4964,
 "todayCases": 284,
 "deaths": 235,
-"todayDeaths": 9,
 "recovered": 416
 }
